@@ -6,7 +6,7 @@ TARGET := iphone:clang:latest
 include $(THEOS)/makefiles/common.mk
 
 TWEAK_NAME = FxxkHapticTouch
-FxxkHapticTouch_FILES = Tweak.xm
+FxxkHapticTouch_FILES = Tweak.x
 FxxkHapticTouch_FRAMEWORKS = UIKit
 
 include $(THEOS_MAKE_PATH)/tweak.mk
