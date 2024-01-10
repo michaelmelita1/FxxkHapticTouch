@@ -1,0 +1,2 @@
+# FxxkHapticTouch
+Disable HapticTouch
