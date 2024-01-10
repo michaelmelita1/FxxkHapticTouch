@@ -1,0 +1,11 @@
+Package: com.michaelmelita1.fxxkhaptictouch
+Version: 0.0.1
+Architecture: iphoneos-arm64
+Maintainer: Michael Melita
+Depends: mobilesubstrate
+Section: Tweaks
+Description: Disable HapticTouch
+Author: Michael Melita
+Name: FxxkHapticTouch
+Depiction: https://michaelmelita1.github.io/depictions/?p=com.michaelmelita1.fxxkhaptictouch
+Sileodepiction: https://michaelmelita1.github.io/sileodepictions/com.michaelmelita1.fxxkhaptictouch/info.json
